@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sandbox-and-release-management-flutter",
+  "capabilityKey": "liberusoftware/module-crm-sandbox-and-release-management",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_sandbox_and_release_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/sandbox-and-release-management.md",
+  "presentationPlan": "projects/crm/flutter/sandbox-and-release-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
